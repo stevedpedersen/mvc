@@ -1,5 +1,5 @@
-<?php require 'views/header.php'; ?>
+<?php require_once 'views/header.php'; ?>
 
 This is the main page, welcome!
 
-<?php require 'views/footer.php'; ?>
+<?php require_once 'views/footer.php'; ?>

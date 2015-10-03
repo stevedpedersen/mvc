@@ -1,5 +1,5 @@
-<?php require 'views/header.php'; ?>
+<?php require_once 'views/header.php'; ?>
 
 This is the login page, welcome!
 
-<?php require 'views/footer.php'; ?>
+<?php require_once 'views/footer.php'; ?>

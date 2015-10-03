@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 // use an autoloader - splautoload
 require 'libs/Bootstrap.php';
